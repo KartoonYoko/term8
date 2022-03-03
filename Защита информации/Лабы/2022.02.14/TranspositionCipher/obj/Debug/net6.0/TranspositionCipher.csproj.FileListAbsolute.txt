@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\bin\Debug\net6.0\TranspositionCipher.exe
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\bin\Debug\net6.0\TranspositionCipher.deps.json
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\bin\Debug\net6.0\TranspositionCipher.runtimeconfig.json
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\bin\Debug\net6.0\TranspositionCipher.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\bin\Debug\net6.0\TranspositionCipher.pdb
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.AssemblyInfo.cs
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\ref\TranspositionCipher.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.pdb
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\TranspositionCipher.genruntimeconfig.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.02.14\TranspositionCipher\obj\Debug\net6.0\refint\TranspositionCipher.dll

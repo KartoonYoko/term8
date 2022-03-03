@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb71434e-ae9a-4343-a30c-d49b4c5dd6ea": {
+      "ProjectGuid": "bb71434e-ae9a-4343-a30c-d49b4c5dd6ea",
+      "DisplayName": "TranspositionCipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
