@@ -30,13 +30,18 @@ Matrix key = new(new() {
     new() { 0, 1},
     new() { 3, 4 }
 });
+var inv = key.GetInverseMatrix();
+var det = inv.FindDeterminant();
+Console.WriteLine(det);
+inv.Print();
 Matrix inverseKey = new(new() { 
     new() { -1.3, 0.33 },
     new() { 1, 0 }
 });
 Matrix an = new(new() { 
-    new() { 0, 3 }
+    new() { 0 },
+    new() { 3 }
 });
 
 var c = inverseKey * an;
-c.Print();
+//c.Print();

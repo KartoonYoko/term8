@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.02.21\\HillCipherProject\\HillCipherProject.csproj",
-      "projectName": "HillCipherProject",
-      "projectPath": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.02.21\\HillCipherProject\\HillCipherProject.csproj",
+      "projectUniqueName": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.03.14\\BlockCipherProject\\BlockCipherProject.csproj",
+      "projectName": "BlockCipherProject",
+      "projectPath": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.03.14\\BlockCipherProject\\BlockCipherProject.csproj",
       "packagesPath": "C:\\Users\\crash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.02.21\\HillCipherProject\\obj\\",
+      "outputPath": "C:\\Users\\crash\\Desktop\\term8\\Защита информации\\Лабы\\2022.03.14\\BlockCipherProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crash\\AppData\\Roaming\\NuGet\\NuGet.Config",
