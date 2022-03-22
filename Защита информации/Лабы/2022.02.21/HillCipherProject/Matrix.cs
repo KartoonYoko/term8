@@ -131,7 +131,7 @@ namespace HillCipherProject
         /// Возвращает обратную матрицу к текущей.
         /// </summary>
         /// <returns></returns>
-        public Matrix GetInverseMatrix() {
+        public Matrix GetInverseMatrix(int module) {
             if (FindDeterminant() == 0) throw new Exception("Determinant equals zero.");
             if (GetColumnCount() != GetRowCount()) throw new Exception("Can not get inverse matrix to not square one.");
 
@@ -143,7 +143,9 @@ namespace HillCipherProject
                 }
             result.Transpose();
 
-            result *= (1 / FindDeterminant());
+            var determinant = FindDeterminant();
+            determinant = GetMultiplicativeInverse(determinant, module);
+            result *= (1 / determinant);
             return result;
         }
 
@@ -254,6 +256,19 @@ namespace HillCipherProject
                 }
             result = buf.FindDeterminant() * Math.Pow(-1, (row + col));
             return result;
+        }
+
+        private double GetMultiplicativeInverse(double num, int module) {
+            var inverse = 0;
+            while (inverse < module) {
+                var result = (num * module) % module;
+                if (result == 1) break;
+                else{
+                    inverse++;
+                    if (inverse == module) return 0;
+                }
+            }
+            return inverse;
         }
 
     }

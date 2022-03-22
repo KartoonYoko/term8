@@ -1,0 +1,15 @@
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\bin\Debug\net6.0\StreamCipherProject.exe
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\bin\Debug\net6.0\StreamCipherProject.deps.json
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\bin\Debug\net6.0\StreamCipherProject.runtimeconfig.json
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\bin\Debug\net6.0\StreamCipherProject.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\bin\Debug\net6.0\StreamCipherProject.pdb
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.csproj.AssemblyReference.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.AssemblyInfo.cs
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\refint\StreamCipherProject.dll
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.pdb
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\StreamCipherProject.genruntimeconfig.cache
+C:\Users\crash\Desktop\term8\Защита информации\Лабы\2022.03.21\SteamCipherProject\obj\Debug\net6.0\ref\StreamCipherProject.dll
